@@ -28,7 +28,6 @@ A convolution neural network to classify the MNIST dataset with ~98% accuracy
 
 ## Model Archetictures Comparison
 
-**PUT ALL THE MODELS YOU TRIED ALONG WITH THEIR CORRESPONDING TRAIN_ACC & VAL_ACC HERE.**
 ### CNN Model:
 * Training_accuracy = 
 ### 
