@@ -25,12 +25,12 @@ A convolution neural network to classify the MNIST dataset with ~98% accuracy
 
 ![image](https://user-images.githubusercontent.com/82214163/142779277-275e724a-6e48-4d9e-b507-71181fa55caf.png)
 
-
+<!--
 ## Model Archetictures Comparison
 
 ### CNN Model:
 * Training_accuracy = 
 ### 
-
+-->
 
 
